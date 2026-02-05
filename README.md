@@ -4,6 +4,8 @@
 
 # AI Career Intelligence Platform 🚀
 
+link:- https://path-iq.netlify.app/
+
 An AI-powered web application that provides **personalized career readiness analysis and growth recommendations**. The platform helps students and early professionals understand where they stand for a specific role and what steps they need to take to improve.
 
 ---
